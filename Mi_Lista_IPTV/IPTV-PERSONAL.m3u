@@ -16,7 +16,19 @@ http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/269
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",#VAMOS HD 720
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1059
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
 http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
@@ -28,15 +40,13 @@ http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunk
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
-http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
-http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
 http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",24 Horas
-http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",24 Horas
@@ -49,20 +59,34 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_a
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",24 Horas
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",24 Horas
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/39
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
-http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",7TV Bahia HD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/63
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",7TV Region de Murcia
@@ -79,10 +103,22 @@ https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZT
 https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",A Punt
 https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",A Punt
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",A Punt
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",A Punt
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",A Punt HD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/60
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Al Jazeera
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/25
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8?
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Alcarria TV
@@ -165,6 +201,12 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Be Mad
 https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",BE MAD FHD 1080
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/381
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Bethel TV
@@ -211,6 +253,8 @@ http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/99
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/57
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Canal Sur HD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/58
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Canaria SAT
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Castilla la Mancha TV
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/53
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Castilla y Leon 7 HD
@@ -321,6 +365,12 @@ https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Divinity
 https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",DIVINITY SD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/379
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",DKISS HD 720
@@ -341,6 +391,18 @@ http://ventdelnord.tv:8080/escala/directe.m3u8
 http://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Emporda TV
 http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Energy
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Energy
@@ -355,330 +417,404 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
 https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ENERGY SD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/382
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: #0 SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17294.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: 24H
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17251.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17251.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: 3/24 CAT
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17215.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17215.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: 33 CAT
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17214.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17214.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: 7 TV Murcia
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17250.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17250.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: 8TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17213.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17213.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: A3series HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17249.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17249.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: AE
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17276.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17276.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: AMC HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17293.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Antena 3 Full HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17444.m3u8
+http://hd.007iptv.com:2095/DITI/DITI/815
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: AMC HD
+http://hd.007iptv.com:2095/DITI/DITI/815
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: AMC HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17293.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Antena 3 HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/11254.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Antena 3 HQ
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17442.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Antena 3 SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17248.m3u8
+http://hd.007iptv.com:2095/DITI/DITI/814
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Antena 3 HD
+http://hd.007iptv.com:2095/DITI/DITI/814
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Aragon TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17211.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17211.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: AXN HD
+http://hd.007iptv.com:2095/DITI/DITI/813
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: AXN HD
+http://hd.007iptv.com:2095/DITI/DITI/813
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: AXN SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17292.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17292.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: AXN White HD
+http://hd.007iptv.com:2095/DITI/DITI/812
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: AXN White HD
+http://hd.007iptv.com:2095/DITI/DITI/812
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: AXN White SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17291.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17291.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Baby TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17260.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17260.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Barca TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17338.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17338.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Bein La Liga HD
+http://hd.007iptv.com:2095/DITI/DITI/811
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Bein La Liga HD
+http://hd.007iptv.com:2095/DITI/DITI/811
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Bein Sports LaLiga SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17330.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17330.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: BeMad TV HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17247.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17247.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Betis TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17329.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17329.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Boing
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17246.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17246.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Calle 13
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17290.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17290.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Calle 13 HD
+http://hd.007iptv.com:2095/DITI/DITI/809
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Calle 13 HD
+http://hd.007iptv.com:2095/DITI/DITI/809
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Canal Cocina
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17265.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17265.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Canal Costa TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17245.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17245.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Canal Panda
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17259.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17259.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Canal Parlamento
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17244.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17244.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Canal Sur
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17209.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17209.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Canal Sur Cocina
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17208.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17208.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Canal Sur La Banda TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17207.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17207.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Canal Sur Turismo
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17206.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17206.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Castilla La Mancha Media
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17205.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17205.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Caza y Pesca
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16759.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16759.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Caza y Pesca HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17337.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17337.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Clan TVE
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17243.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17243.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Comedy Central HD
+http://hd.007iptv.com:2095/DITI/DITI/808
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Comedy Central HD
+http://hd.007iptv.com:2095/DITI/DITI/808
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Comedy Central SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17289.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17289.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Cosmo HD
+http://hd.007iptv.com:2095/DITI/DITI/807
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Cosmo HD
+http://hd.007iptv.com:2095/DITI/DITI/807
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Cosmo TV SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17288.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17288.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Crime & Investigation
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17264.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17264.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Cuatro HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17242.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17242.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Cuatro HD
+http://hd.007iptv.com:2095/DITI/DITI/806
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Cuatro HD
+http://hd.007iptv.com:2095/DITI/DITI/806
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Cuatro SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17241.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17241.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Decasa
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17263.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17263.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Discovery Channel HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17275.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Discovery Channel SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17274.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17274.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Discovery Max
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17240.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17240.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Disney Channel HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17258.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17258.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Disney Channel SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17257.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17257.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Disney Junior
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17256.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17256.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Disney XD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17255.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17255.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Divinity
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17239.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17239.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Dkiss
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17262.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17262.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: DW en Español
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17204.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17204.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: El Garaje TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17261.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17261.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Energy
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17238.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17238.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Esport 3 CAT
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17328.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17328.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: ETB Sat
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17203.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: ETB Sat
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17203.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17203.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: EUROSPORT 1
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16758.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16758.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Eurosport 1 HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17320.m3u8
+http://hd.007iptv.com:2095/DITI/DITI/805
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Eurosport 1 HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17320.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Eurosport 1 HD
+http://hd.007iptv.com:2095/DITI/DITI/805
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Eurosport 1 SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17319.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17319.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: EUROSPORT 2
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16757.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16757.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Eurosport 2 HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17318.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17318.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Extremadura TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17201.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17201.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: FDF
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17237.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17237.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Fox HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17287.m3u8
+http://hd.007iptv.com:2095/DITI/DITI/804
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Fox HD
+http://hd.007iptv.com:2095/DITI/DITI/804
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Fox HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17287.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Fox Life HD
+http://hd.007iptv.com:2095/DITI/DITI/803
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Fox Life HD
+http://hd.007iptv.com:2095/DITI/DITI/803
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Fox Life SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17286.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17286.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Fox SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17285.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17285.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Galicia TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17200.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17200.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Gol SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17235.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17235.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Gol TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16756.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16756.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Hispan TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17199.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17199.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Historia HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17273.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17273.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Hollywood HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17309.m3u8
+http://hd.007iptv.com:2095/DITI/DITI/802
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Hollywood HD
+http://hd.007iptv.com:2095/DITI/DITI/802
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Hollywood HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17309.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Iberalia
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17334.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17334.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: intereconomia
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17233.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17233.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: La 1 HD
+http://hd.007iptv.com:2095/DITI/DITI/801
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: La 1 HD
+http://hd.007iptv.com:2095/DITI/DITI/801
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: LA 1 HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17232.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17232.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: LA 1 SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17231.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17231.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: LA 2
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17230.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17230.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: La 2 HD
+http://hd.007iptv.com:2095/DITI/DITI/799
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: La 2 HD
+http://hd.007iptv.com:2095/DITI/DITI/799
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: La 8 Mediterráneo
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17198.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17198.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: La Liga TV BAR SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17327.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17327.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: La Liga TV HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16755.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16755.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: La Sexta SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17229.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: LaLiga 123 TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16754.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17229.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Lancelot TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17196.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17196.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Levante TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17195.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17195.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Libertad Digital
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17228.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17228.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: M Liga de Campeones HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17332.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17332.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: M Liga de Campeones SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17331.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Mega SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17226.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Mezzo Live HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17190.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17331.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Accion HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17308.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17308.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Accion SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17307.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17307.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Cine N
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17306.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17306.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Comedia HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17305.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17305.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Comedia SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17304.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17304.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Dcine HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17303.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Dcine SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17302.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17303.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Deportes 1 HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17317.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17317.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Deportes 1 SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17316.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Deportes 2 HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17315.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17316.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Deportes 2 SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17314.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17314.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Disney
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17301.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17301.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Estrenos HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17300.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17300.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Estrenos SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17299.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17299.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Formula 1 SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17312.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17312.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Futbol HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17325.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17325.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Futbol SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17324.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17324.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Golf
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17311.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Golf
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17311.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17311.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Series SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17284.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17284.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Series Xtra SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17283.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17283.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Xtra
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17298.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17298.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar  Xtra HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17297.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17297.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar F1 FHD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16753.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar Futbol HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16752.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16752.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Movistar Golf FHD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16751.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16751.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: MTV Espana
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17282.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17282.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Nat Geo HD
+http://hd.007iptv.com:2095/DITI/DITI/784
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Nat Geo HD
+http://hd.007iptv.com:2095/DITI/DITI/784
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Nat Geo Wild HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17272.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17272.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Nat Geo Wild HD
+http://hd.007iptv.com:2095/DITI/DITI/783
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Nat Geo Wild HD
+http://hd.007iptv.com:2095/DITI/DITI/783
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Nat Geo Wild SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17271.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17271.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: National Geoghraphic HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17270.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17270.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: National Geoghraphic SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17269.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17269.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Neox
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17225.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17225.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Nick JR
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17254.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17254.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Nickelodeon
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17253.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17253.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: NIckelodeon HD
+http://hd.007iptv.com:2095/DITI/DITI/782
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: NIckelodeon HD
+http://hd.007iptv.com:2095/DITI/DITI/782
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Nova
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17224.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Odisea SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17268.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17268.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Paramount Channel
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17223.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17223.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Real Madrid HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17323.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Real Madrid HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17323.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17323.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Real Madrid SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17322.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17322.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Real Madrid TV FHD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16749.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16749.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: RT HD en Español
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17193.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17193.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Sevilla FC
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17321.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17321.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Sundance TV
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17296.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17296.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Super3
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17252.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17252.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: SYFY HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17280.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17280.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: SYFY HD
+http://hd.007iptv.com:2095/DITI/DITI/781
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: SYFY HD
+http://hd.007iptv.com:2095/DITI/DITI/781
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: SyFy SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17279.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17279.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: TCM HD
+http://hd.007iptv.com:2095/DITI/DITI/780
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: TCM HD
+http://hd.007iptv.com:2095/DITI/DITI/780
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: TCM SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17295.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17295.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Telecinco HD
+http://hd.007iptv.com:2095/DITI/DITI/779
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Telecinco HD
+http://hd.007iptv.com:2095/DITI/DITI/779
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Telecinco SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17222.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17222.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Teledeporte
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17221.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17221.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: TELEDEPORTE HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16748.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16748.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Teledeporte SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17220.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17220.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: TeleMadrid
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17192.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17192.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Telesur HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17219.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17219.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: TEN
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17218.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17218.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: TNT HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17278.m3u8
+http://hd.007iptv.com:2095/DITI/DITI/778
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: TNT HD
+http://hd.007iptv.com:2095/DITI/DITI/778
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: TNT HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17278.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: TNT SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17277.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17277.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Toros
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17333.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17333.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Toros *
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/13065.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/13065.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: TOROS TV HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/16747.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/16747.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Trece
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17217.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17217.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: TV Canaria
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17216.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17216.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: VH1
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17189.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17189.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: VH1 Classic
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17188.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17188.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Viajar HD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17267.m3u8
+http://hd.007iptv.com:2095/DITI/DITI/777
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Viajar HD
+http://hd.007iptv.com:2095/DITI/DITI/777
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Viajar HD
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17267.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Viajar SD
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17266.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17266.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: XTRM
-http://iptv.wtf:80/live/arqxoxjd/ba6626FuzH/17191.m3u8
+http://tv.ultraiptv.org:80/live/wohrnncd/2BF444tvmv/17191.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ESPN 1 SD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/167
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",ESPN 2 MEX ID SW_https://tv.tousecurity.com
-http://142.44.213.119:8000/live/Albertoprado/Albertoprado/1535.ts
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ESPN 2 SD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/166
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ESPN 3 SD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/165
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ESPN DEPORTES HD 720
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/168
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",ESPN MX ID VACANTE
-http://142.44.213.119:8000/live/Albertoprado/Albertoprado/1620.ts
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ESPORT 3 HD 720
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/183
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ETB 1 HD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/50
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ETB 2 HD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/49
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",ETB Sat
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/48
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",EuroNews HD
@@ -709,10 +845,22 @@ https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",FDF
 https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",FDF HD 720
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/388
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",FDF SD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/387
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8?
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8?
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8?
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Fight Time
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8?
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Fight Time
@@ -783,12 +931,6 @@ http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
 http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Ibiza Global TV
 http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Ibiza Global TV
-http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Ibiza Global TV
-http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Ibiza Global TV
-http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Intereconomia TV
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/17
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",JUEGO DE TRONOS 24 HORAS
@@ -821,6 +963,12 @@ http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/38
 http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",La Xarxa
 http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Lancelot TV
@@ -833,6 +981,18 @@ http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Lancelot TV
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Lebrija TV
 http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Lebrija TV
@@ -853,6 +1013,12 @@ http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/33
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/70
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",MICKEY MOUSE 24 HORAS
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/93
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Mola TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Mola TV
@@ -915,8 +1081,6 @@ http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Navarra TV
 http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Navarra TV
-http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",NBA TV HD 720
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/128
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",NBA TV PT HD 720
@@ -965,6 +1129,12 @@ http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",PequeRadio TV
 http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",PequeRadio TV
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",PequeRadio TV
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",PequeRadio TV
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",POCOYO 24 HORAS
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/101
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",PORTADA
@@ -983,6 +1153,12 @@ http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/172
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/136
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",RESISTANCE TV HD 720
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/109
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",RMadrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",RMadrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",RMadrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",RT Español HD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/23
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",RT Español SD
@@ -1005,6 +1181,12 @@ http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",RTVCE
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",SEVILLA FC SD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/170
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",SKY MOTOGP 1 HD 720
@@ -1015,180 +1197,212 @@ http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/199
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/78
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",SOMOS FHD 1080
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/297
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: #0
-http://4ever.biz:80/habib72/habib72/3062
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: 24 Horas
-http://4ever.biz:80/habib72/habib72/1408
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: A&E
-http://4ever.biz:80/habib72/habib72/3051
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: A3Series
-http://4ever.biz:80/habib72/habib72/25640
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Amc
-http://4ever.biz:80/habib72/habib72/4641
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Andalucia
-http://4ever.biz:80/habib72/habib72/4647
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Antena 3 ᴴᴰ
-http://4ever.biz:80/habib72/habib72/25670
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Antena3
-http://4ever.biz:80/habib72/habib72/1403
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Aragon
-http://4ever.biz:80/habib72/habib72/25642
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Axn
-http://4ever.biz:80/habib72/habib72/1390
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Axn White
-http://4ever.biz:80/habib72/habib72/1391
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Baby
-http://4ever.biz:80/habib72/habib72/25658
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Barca TV
-http://4ever.biz:80/habib72/habib72/1378
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Be Mad
-http://4ever.biz:80/habib72/habib72/25657
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Blaze
-http://4ever.biz:80/habib72/habib72/25633
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Boing
-http://4ever.biz:80/habib72/habib72/25632
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Calle13
-http://4ever.biz:80/habib72/habib72/1394
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Canal SUR
-http://4ever.biz:80/habib72/habib72/25652
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Caza.Y.Pesca
-http://4ever.biz:80/habib72/habib72/3061
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Clan
-http://4ever.biz:80/habib72/habib72/3060
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Classica
-http://4ever.biz:80/habib72/habib72/25634
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Cocina
-http://4ever.biz:80/habib72/habib72/3049
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Comedy Central
-http://4ever.biz:80/habib72/habib72/3050
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Cosmo
-http://4ever.biz:80/habib72/habib72/4648
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Crime Investigation
-http://4ever.biz:80/habib72/habib72/25651
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Cuatro
-http://4ever.biz:80/habib72/habib72/3063
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Decasa
-http://4ever.biz:80/habib72/habib72/25636
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Discovery
-http://4ever.biz:80/habib72/habib72/3066
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Disney
-http://4ever.biz:80/habib72/habib72/3057
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Disney JR
-http://4ever.biz:80/habib72/habib72/3059
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Disney XD
-http://4ever.biz:80/habib72/habib72/3058
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Divinity
-http://4ever.biz:80/habib72/habib72/25637
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Energy
-http://4ever.biz:80/habib72/habib72/4644
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Eurosport 1
-http://4ever.biz:80/habib72/habib72/25659
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Eurosport 2
-http://4ever.biz:80/habib72/habib72/25660
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: F Spain
-http://4ever.biz:80/habib72/habib72/4646
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Fox
-http://4ever.biz:80/habib72/habib72/1389
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Fox Life
-http://4ever.biz:80/habib72/habib72/1385
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Fox News
-http://4ever.biz:80/habib72/habib72/25655
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Gol Tv
-http://4ever.biz:80/habib72/habib72/25628
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Historia
-http://4ever.biz:80/habib72/habib72/1386
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Hollywood
-http://4ever.biz:80/habib72/habib72/1392
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Iberalia
-http://4ever.biz:80/habib72/habib72/25629
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: LA 1 ᴴᴰ
-http://4ever.biz:80/habib72/habib72/25668
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: LaLiga123
-http://4ever.biz:80/habib72/habib72/25643
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: LaSexta
-http://4ever.biz:80/habib72/habib72/1379
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: LA_1
-http://4ever.biz:80/habib72/habib72/1405
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: LA_2
-http://4ever.biz:80/habib72/habib72/1406
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Mega
-http://4ever.biz:80/habib72/habib72/1404
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Mezzo
-http://4ever.biz:80/habib72/habib72/25661
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Movie* Accion
-http://4ever.biz:80/habib72/habib72/1381
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Movie* Comedia
-http://4ever.biz:80/habib72/habib72/1382
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Movie* Deportes
-http://4ever.biz:80/habib72/habib72/1374
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Movie* Deportes1
-http://4ever.biz:80/habib72/habib72/4638
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Movie* Disney
-http://4ever.biz:80/habib72/habib72/25653
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Movie* Drama
-http://4ever.biz:80/habib72/habib72/25650
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Movie* Estrenos
-http://4ever.biz:80/habib72/habib72/3053
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Movie* Formula1
-http://4ever.biz:80/habib72/habib72/25638
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Movie* Futbol
-http://4ever.biz:80/habib72/habib72/1375
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Movie* Golf
-http://4ever.biz:80/habib72/habib72/1377
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Movie* Series
-http://4ever.biz:80/habib72/habib72/1383
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Movie* Seriesmania
-http://4ever.biz:80/habib72/habib72/25630
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Movie* Xtra
-http://4ever.biz:80/habib72/habib72/1380
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: MTV Music
-http://4ever.biz:80/habib72/habib72/25664
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: National Geo Wild
-http://4ever.biz:80/habib72/habib72/1388
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: National Geographic
-http://4ever.biz:80/habib72/habib72/1387
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Neox
-http://4ever.biz:80/habib72/habib72/3065
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Nick JR
-http://4ever.biz:80/habib72/habib72/25663
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: NickeLodeon
-http://4ever.biz:80/habib72/habib72/3056
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Nova
-http://4ever.biz:80/habib72/habib72/3055
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: ODIsea
-http://4ever.biz:80/habib72/habib72/3064
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Panda
-http://4ever.biz:80/habib72/habib72/25644
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Paramount
-http://4ever.biz:80/habib72/habib72/3052
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Real Madrid
-http://4ever.biz:80/habib72/habib72/1407
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Sundance
-http://4ever.biz:80/habib72/habib72/25645
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: SyFy
-http://4ever.biz:80/habib72/habib72/1393
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Tcm
-http://4ever.biz:80/habib72/habib72/4640
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: tdp
-http://4ever.biz:80/habib72/habib72/25641
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Telecinco
-http://4ever.biz:80/habib72/habib72/4645
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Ten
-http://4ever.biz:80/habib72/habib72/25648
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: TNT
-http://4ever.biz:80/habib72/habib72/4639
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Toros
-http://4ever.biz:80/habib72/habib72/3054
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",Spain: Viajar
-http://4ever.biz:80/habib72/habib72/25627
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: A&E
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/375
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: ANDALUCIA TV
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/353
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Antena 3
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/360
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Antena 3
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/360
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Antena 3 HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/312
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Antena 3 HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/312
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: AXN
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/350
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: AXN
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/350
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: AXN White
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/348
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: AXN White
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/348
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Barca tv
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/330
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Barca tv
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/330
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: CUATRO
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/359
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: CUATRO
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/359
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Decasa
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/369
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Decasa
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/369
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: DISNEY Channel HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/324
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: DISNEY Channel HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/324
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Disney XD Spain
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/323
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Disney XD Spain
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/323
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: DIVINITY Dual II
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/374
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: DIVINITY Dual II
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/374
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Energy Dual II
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/368
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Energy Dual II
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/368
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Esperanza TV
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/356
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Esperanza TV
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/356
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Eurosport HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/322
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Eurosport HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/322
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: FOX
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/361
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: FOX
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/361
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: FOX HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/321
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: FOX HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/321
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: FOX LIFE
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/362
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: FOX LIFE
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/362
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Galicia TV
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/370
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Galicia TV
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/370
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Gol tv
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/335
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: LA 1
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/389
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: LA 1
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/389
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: LA 1 HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/388
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: LA 1 HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/388
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: La 2
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/387
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: La 2
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/387
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: La sexta
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/367
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: La sexta
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/367
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: La Sexta HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/320
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: La Sexta HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/320
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: LaLiga TV
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/334
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: LaLiga TV
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/334
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Mega
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/376
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Mega
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/376
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Mega Hd
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/319
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Mega Hd
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/319
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Accion
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/342
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Accion
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/342
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Deportes 1
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/336
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Deportes 1
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/336
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Estrenos
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/345
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Estrenos
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/345
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Golf
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/337
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Golf
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/337
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Series
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/343
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Series
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/343
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Series HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/311
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Series HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/311
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Series Xtra
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/341
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Series Xtra
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/341
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Series Xtra HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/310
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Series Xtra HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/310
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Xtra
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/344
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar  Xtra
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/344
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar F1.
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/340
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Movistar F1.
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/340
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: NAT GEO WILD HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/327
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: NAT GEO WILD HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/327
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: National Geografic
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/354
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: National Geografic
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/354
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: National Geographic HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/326
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: National Geographic HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/326
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: NEOX
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/364
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: NEOX
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/364
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Nick Jr Spain
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/349
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Nick Jr Spain
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/349
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Paramount Channel
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/380
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Paramount Channel
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/380
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Real Madrid TV
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/331
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: SUNDANCE HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/329
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: SUNDANCE HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/329
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: SYFY Dual II
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/371
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: SYFY Dual II
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/371
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Syfy HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/328
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: TCM
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/365
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Telecinco HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/316
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Telecinco HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/316
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: TNT
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/363
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: TNT
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/363
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Toros TV HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/315
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: Toros TV HD
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/315
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: TV3 HD Cat
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/314
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",SP: TV3 HD Cat
+http://medotv.nl:8000/MoM10BvyMX/VwDP31z87H/314
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Sport TV UHD 4K (EN PRUEBAS)
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/513
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Sport TV UHD 4K EXTRA (EN PRUEBAS)
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/512
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",STAR SPORTS 1 HD_By : dailyfreeiptv.blogspot.com
 http://voxtv.dynns.com:8000/movies/movies/529
-#EXTINF:-1 group-title="@IPTV-PERSONAL@",STAR SPORTS 2 HD_By : dailyfreeiptv.blogspot.com
-http://voxtv.dynns.com:8000/movies/movies/528
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Summer Music 24 Horas
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/73
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",SUNDANCE FHD 1080
@@ -1225,6 +1439,12 @@ http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/1058
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/181
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",TeleMadrid
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/44
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Telemax HD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/13
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",TeleSafor
@@ -1239,8 +1459,20 @@ http://video.telesafor.com/hls/video_low.m3u8
 http://video.telesafor.com/hls/video_low.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",TeleSafor
 http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Telesur HD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/7
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",TeleValencia
 http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",TeleValencia
@@ -1291,6 +1523,18 @@ http://america-crtvg.flumotion.com/playlist.m3u8
 http://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",TV Galicia America
 http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",TV Galicia Europa
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",TV Galicia Europa
@@ -1321,10 +1565,22 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playli
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",TV3
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/42
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",TV3 FHD
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/41
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",TV5 MONDE
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/19
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TVG Xabarin
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TVG Xabarin
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TVG Xabarin
+http://infantil-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",TVG Xabarin
 http://infantil-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",TVG Xabarin
@@ -1358,9 +1614,13 @@ http://185.29.68.24/tvb.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Vega Baja TV
 http://185.29.68.24/tvb.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Vega Baja TV
+http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/62
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Vega Baja TV
 http://185.29.68.24/tvb.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Vega Baja TV
-http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/62
+http://185.29.68.24/tvb.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Vega Baja TV
+http://185.29.68.24/tvb.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",Vega Baja TV
 http://185.29.68.24/tvb.m3u8
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",VH1 Classic
@@ -1383,3 +1643,69 @@ http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/134
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/408
 #EXTINF:-1 group-title="@IPTV-PERSONAL@",▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆▆
 http://play.bimbotv.net:2052/fOomtBaEkK/3NNvl1ppWo/409
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Bein La Liga HD
+http://hd.007iptv.com:2095/DITI/DITI/811
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ES: Bein Sports HD
+http://hd.007iptv.com:2095/DITI/DITI/810
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",7 Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",13 TV
+http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",A Punt
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8?
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Be Mad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Canaria SAT
+http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Divinity
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_3.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Emporda TV
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Energy
+https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_1.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",ETB Sat
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8?
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Ibiza Global TV
+http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",La Xarxa
+http://video-streaming.laxarxa.com:1935/xal1/mp4:directe/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Lancelot TV
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Lebrija TV
+http://212.104.160.156:1935/live/lebrijatv2/playlist3.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Mola TV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Navarra TV
+http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",PequeRadio TV
+http://panel2.cdnstreamserver.com/live/peque-pequetv.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",RMadrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",RTVCE
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TeleValencia
+http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TV3
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TV Galicia America
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TV Galicia Europa
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",TVG Xabarin
+http://infantil-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:-1 group-title="@IPTV-PERSONAL@",Vega Baja TV
+http://185.29.68.24/tvb.m3u8
